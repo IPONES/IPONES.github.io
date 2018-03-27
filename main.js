@@ -1,2 +1,2 @@
 def start ():
-  print ("Miner is started!")
+  print ("Мой первый вирус!")
