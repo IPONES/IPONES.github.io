@@ -1,2 +1,2 @@
 def start ():
-  print ("Hello, world!")
+  print ("Miner is started!")
