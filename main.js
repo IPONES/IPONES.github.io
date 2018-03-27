@@ -1,3 +1,2 @@
-module.exports = function () {
-  console.log("Hello, world")
-}
+def start ():
+  print ("Hello, world!")
