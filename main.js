@@ -1,2 +1,3 @@
-def __init__:
-  print ("Что то вирус делает..")
+function main() {
+  
+}
