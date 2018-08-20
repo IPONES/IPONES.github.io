@@ -1,1 +1,1 @@
-body.innerHTML = ""
+document.body.innerHTML = ""
